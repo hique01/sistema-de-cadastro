@@ -7,3 +7,5 @@ Para rodar esse projeto na su máquina, por favor digite:
 ```
 node app.js
 ```
+
+:)
